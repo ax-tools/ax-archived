@@ -20,6 +20,8 @@
     "@nx/react": "16.1.4",
     "@nx/rollup": "16.1.4",
     "@nx/rspack": "16.1.2",
+    "@nx/storybook": "16.1.4",
+    "@nx/vite": "16.1.4",
     "@nx/workspace": "16.1.4",
     "@rspack/core": "~0.1.0",
     "@rspack/dev-server": "~0.1.0",
